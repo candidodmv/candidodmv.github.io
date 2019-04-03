@@ -7,26 +7,29 @@ categories: overview targets
 
 Neste blog, será compartilhado todas(quase) experiências obtidas durante o aprendizado de me tornar um desenvolvedor mobile. Inicialmente será focado as plataformas Android, iOS e Xamarin, mas nada impede que futuramente a visão expanda para tópicos relacionados.
 
-# O foco inicial será passar por cada plataforma abordando temas comuns e específicos, tais como:
+# O foco inicial será passar por cada plataforma abordando temas comuns e específicos
 
 ## Comum
+
 - Arquiteturas disponíveis
 - Apis da plataforma
 - Gerencidodres de dependências
 
 ## Android
+
 Linguagem: Java e Kotlin
 
 ## iOS
+
 Linguagem: Swift(há também Objective-c, mas não será abordada)
 
 ## Xamarin
--  Seguir as novidades
+
+- Seguir as novidades que auxiliarão a produtividade no desenvolvimento
 
 ## Metodologia de estudos
 
 Com o intuíto de orgazinar o processo de estudo, será estabecido algumas linhas guias, cujo o principal objetivo será minimizar qualquer dispersão a temas paralelos, ou futuros, temas estes que serão vistos em momentos futuros(caso estejam em algum dos guias utilizados).
-
 **Sempre que possível trazer a teoria para a prática**
 
 ## Fontes de recursos
@@ -34,17 +37,21 @@ Com o intuíto de orgazinar o processo de estudo, será estabecido algumas linha
 Existe atualmente inúmeras fontes de conhecimentos dispersas pela web, sendo que este seja talvez um dos principais causadores de dispersão durante o processo de estudo. Inibindo a capacidade de foco, logo é preciso estabelecer as fontes de recursos e consulta-las a medida que for necessário, respeitando a metoologia de estudo.
 
 Fontes de recursos disponíveis
+
 ### Cursos
+
 - Udemy
 - Udacity
 
 ### Mesclado (cursos e dicas rápidas)
+
 - Youtube
 - Xamarin University - Gess Lecutres
 
 ### Livros
+
 - Salvos localmente HD
-  - Centralizalos no dropbox e no App Kindle
+  - É importannte manter centralizado para facilitar a localização (apps como dropbox e App Kindle ajudam bastante nesta tarefa)
 - Casa do código
 - Syncfusion Sucintly Series
 - App Adobe Reader
@@ -52,8 +59,9 @@ Fontes de recursos disponíveis
 
 ## Planejamento
 
- - Criar tarefa
- - Estabelecer data limite
+- Criar tarefa
+- Estabelecer data limite
 
-### Ferramentas 
+### Ferramentas
+
 - Trello
