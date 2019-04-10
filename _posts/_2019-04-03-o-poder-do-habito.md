@@ -4,6 +4,7 @@ title:  "O poder do hábito"
 date:   2019-04-03 10:17:18 -0300
 categories: produtividade organização
 ---
+
 # O hábito como ferramenta de produtividade
 
 ## A história
